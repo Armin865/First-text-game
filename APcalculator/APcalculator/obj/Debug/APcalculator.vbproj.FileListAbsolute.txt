@@ -1,0 +1,12 @@
+C:\Users\leagu\source\repos\APcalculator\APcalculator\bin\Debug\APcalculator.exe.config
+C:\Users\leagu\source\repos\APcalculator\APcalculator\bin\Debug\APcalculator.exe
+C:\Users\leagu\source\repos\APcalculator\APcalculator\bin\Debug\APcalculator.pdb
+C:\Users\leagu\source\repos\APcalculator\APcalculator\bin\Debug\APcalculator.xml
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.vbprojAssemblyReference.cache
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.Form1.resources
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.Resources.resources
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.vbproj.GenerateResource.cache
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.vbproj.CoreCompileInputs.cache
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.exe
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.xml
+C:\Users\leagu\source\repos\APcalculator\APcalculator\obj\Debug\APcalculator.pdb
